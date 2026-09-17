@@ -1,0 +1,7 @@
+Name,Student ID,Role,Main Responsibilities
+Umaraliev Makhmudjon,12235542,Project Manager,"Overall coordination, timeline, GitHub management, demo preparation, final documentation, licence compliance"
+Abdulkhaev Akbarjon,12225218,Marketing & Research,"User research, competitor analysis, business case, learner testing coordination, buyer value proposition"
+Jalilov Jakhongir Zukhriddin ugli,12230305,Research,"Content analysis of roadmap.humblebee.ai, licence review (CC BY-NC-SA 4.0), literature on personalized learning paths"
+Li Mikhail,12236295,Backend / AI Engineer,"Level inference logic, path generation, checkpoint generation, progress tracking & adaptive replanning"
+Imetov Daniiar,12235609,Frontend / Full-stack,"Web interface, onboarding flow, path visualization, checkpoint UI"
+Chagai Vladimir,12235620,AI / Data Engineer,"Prompt engineering, evaluation of generated questions/exercises, integration with models, testing pipeline"
