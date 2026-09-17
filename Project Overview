@@ -1,0 +1,40 @@
+Project Overview 
+Project Title: Personalized Learning Roadmap
+
+Category: Software / AI Workflow
+Problem
+
+High-quality free technical learning content exists in abundance (e.g. roadmap.humblebee.ai), yet completion rates remain extremely low. The root cause is a one-size-fits-all path:
+
+Experienced learners get bored by material they already know and quit.
+Beginners hit advanced sections without prerequisites and quit out of overwhelm.
+There is no verification of understanding, so learners advance on the illusion of progress.
+
+This destroys completion, retention, and any claim of effectiveness for learning platforms, corporate L&D teams, and education providers.
+Target Users / Buyers (we keep all three open)
+
+Learning platforms / content publishers that suffer from high drop-off.
+Companies running internal technical upskilling programs with staff of widely different starting points.
+Education providers offering supplementary material to students with uneven backgrounds.
+
+Proposed Solution
+
+An AI-powered system that:
+
+Assesses a learner’s current level and goal from open-ended answers.
+Generates a personalized ordered path through the real roadmap.humblebee.ai content, explicitly marking and justifying skipped sections.
+Creates checkpoint questions and coding problems from the actual content.
+Blocks or adapts the path based on checkpoint performance.
+Produces visibly different paths for different learner profiles.
+
+Why AI is necessary
+
+Fixed decision trees cannot:
+
+Interpret open-ended experience descriptions.
+Generate paths for arbitrary goals.
+Create high-quality checkpoints at scale from real content.
+
+
+
+Public content from roadmap.humblebee.ai (CC BY-NC-SA 4.0). Proper attribution will be implemented.
